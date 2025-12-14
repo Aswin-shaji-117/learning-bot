@@ -1,0 +1,23 @@
+{
+  "2c62a927-8913-46e6-b0ab-61d0e18b880e": {
+    "id": "2c62a927-8913-46e6-b0ab-61d0e18b880e",
+    "name": "Science",
+    "description": "Subject Science",
+    "created_at": "2025-12-14T12:18:59.606952",
+    "documents": [
+      {
+        "id": "8f9d59cd-2ad1-43dd-ba49-c356fcb3289d",
+        "filename": "Science.pdf",
+        "file_type": "pdf",
+        "uploaded_at": "2025-12-14T13:10:03.926030"
+      }
+    ]
+  },
+  "5666cf82-3de7-4b8b-808b-3a312bcb106c": {
+    "id": "5666cf82-3de7-4b8b-808b-3a312bcb106c",
+    "name": "Mathematics",
+    "description": "Mathmetics",
+    "created_at": "2025-12-14T13:09:16.568254",
+    "documents": []
+  }
+}
